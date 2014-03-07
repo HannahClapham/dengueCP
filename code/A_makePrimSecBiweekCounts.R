@@ -5,6 +5,7 @@ library(ggplot2)
 
 ## data coming from one file
 ##  ../data/D73-10.csv
+#HC
 
 ## constants
 ANALYSIS.YEARS <- 1973:2010
