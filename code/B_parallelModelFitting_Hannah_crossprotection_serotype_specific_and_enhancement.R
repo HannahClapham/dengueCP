@@ -165,6 +165,7 @@ for ( p in 1:nrow(paramsexp)){
                        , signif(ll.Ea,3)
                        , signif(ll.Eb,3)
                        , signif(ll.Ec,3)
+                       
                        , signif(ll.Ed,3)
                        ,signif(length(tmp$nonzero.subset),3))
   
